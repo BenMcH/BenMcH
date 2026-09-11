@@ -1,8 +1,16 @@
-:wave: Hi! I'm Ben, a senior software consultant located in central Iowa. 
+# Hi, I'm Ben 👋
 
-I am passionate about learning about new technologies and solving tough problems that are thrown my way. 
+I'm a software engineer and consultant based in central Iowa. I enjoy working on hard problems at the intersection of **software architecture, applied AI, cloud infrastructure, and developer experience**.
 
-* 🚀 I love working with all types of technologies. Recently, this has been Python and Typescript/React in the Generative AI space
-* ☁️ Cloud computing and Infrastructure as Code are must-haves on projects that I pick up
-* 🖥️ Outside of cloud computing, I maintain a resiliant home lab to hone these skills outside of cloud providers
-* 🧠 I am currently learning about creating rich web applications using the Elixir Phoenix Framework
+Much of my work involves taking emerging technologies and figuring out how to make them useful, reliable, and maintainable in real systems.
+
+- 🤖 **Applied AI** — building AI-enabled systems, agents, evaluations, observability, and the infrastructure around them
+- 🏗️ **Software architecture** — designing backend and platform systems that can evolve without becoming painful to operate
+- ☁️ **Cloud & infrastructure** — automation, Infrastructure as Code, containers, distributed systems, and production operations
+- 🛠️ **Building & experimenting** — usually with Python, TypeScript, and whatever else is appropriate for the problem
+- 🏠 **Homelab** — maintaining my own infrastructure gives me a place to experiment with networking, virtualization, storage, and self-hosted software
+- 🎤 **Teaching & speaking** — I enjoy sharing what I learn through conference talks, technical presentations, and conversations with other engineers
+
+I'm particularly interested in the gap between **"this works in a demo"** and **"this is a system I would trust in production."**
+
+Most of what you'll find here is the result of me learning something, experimenting with an idea, or building a tool I wanted to exist.
